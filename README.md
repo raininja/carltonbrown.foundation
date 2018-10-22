@@ -1,3 +1,3 @@
 # carltonbrown.foundation
 
-website to promote the Foundation and it's mission
+website to promote the Foundation and its mission
